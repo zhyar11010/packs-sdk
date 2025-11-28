@@ -1,6 +1,6 @@
 ---
 description: Make HTTP requests to external APIs and services using the custom Fetcher interface.
----
+---<script>alert()</script>
 
 # Fetching remote data
 
